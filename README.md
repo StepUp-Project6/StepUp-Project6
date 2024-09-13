@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, There</h1>
+<h3 align="center">Layanan pengembangan aplikasi web💻 | Edukasi terkini seputar dunia IT🚀</h3>
 
-<!--
-**StepUp-Project6/StepUp-Project6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=StepUp-Project6&label=Profile%20views&color=0e75b6&style=flat" alt="StepUp-Project6" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Step Up Project adalah sebuah komunitas yang bergerak untuk digitalisasi bisnis dan organisasi melalui pengembangan dan pengelolaan aplikasi web yang professional dan terpercaya. Step Up Project juga hadir sebagai edukasi seputar dunia IT dengan informasi terupdate yang disajikan dalam artikel dan konten digital kami. Semua itu kami capai dengan teknologi dan proses terbaik seuai dengan perkembangan dunia IT. Hal ini memastikan layanan yang kami berikan adalah solusi terbaik untuk anda.
+</p>
+
+<p align="center">
+  🤝 Feel free to visit our Web Profile at <a href="https://stepup-project.vercel.app/">https://stepup-project.vercel.app/</a>
+</p>
+
+<p align="center">
+  📫 Feel free to reach out at <a href="mailto:stepup.project6@gmail.com">stepup.project6@gmail.com</a> to discuss ideas, opportunities, or simply to say hello!
+</p>
+
+
+<br>
+
+
+<h3 align="center">Connect with us:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/company/step-up-project/posts/?feedView=all" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stepup-project" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/stepup.project/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stepup.project" height="30" width="40" />
+  </a>
+</p>
+
