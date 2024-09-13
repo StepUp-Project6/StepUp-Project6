@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  🤝 Feel free to visit our Web Profile at <a href="https://stepup-project.vercel.app/">https://stepup-project.vercel.app/</a>
+  🤝 Silakan kunjungi Web Profile kami di <a href="https://stepup-project.vercel.app/">https://stepup-project.vercel.app/</a>
 </p>
 
 <p align="center">
-  📫 Feel free to reach out at <a href="mailto:stepup.project6@gmail.com">stepup.project6@gmail.com</a> to discuss ideas, opportunities, or simply to say hello!
+  📫 Jangan ragu untuk menghubungi kami di  <a href="mailto:stepup.project6@gmail.com">stepup.project6@gmail.com</a> untuk mendiskusikan ide, peluang, atau sekadar menyapa!
 </p>
 
 
