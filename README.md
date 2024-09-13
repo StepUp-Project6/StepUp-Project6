@@ -18,11 +18,7 @@
   📫 Jangan ragu untuk menghubungi kami di  <a href="mailto:stepup.project6@gmail.com">stepup.project6@gmail.com</a> untuk mendiskusikan ide, peluang, atau sekadar menyapa!
 </p>
 
-
-<br>
-
-
-<h3 align="center">Connect with us:</h3>
+<h3 align="center">Sosial Media :</h3>
 <p align="center">
   <a href="https://www.linkedin.com/company/step-up-project/posts/?feedView=all" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stepup-project" height="30" width="40" />
